@@ -41,9 +41,9 @@ p:last-child {
  
 }
 .simple-bg-1{ background-image:url(img/bg4.png); }
-.project-bg-1{ background-image:url(img/bg8.png); }
-.project-bg-2{ background-image:url(img/skills.jpg); }
-.project-bg-3{ background-image:url(img/bg9.png); }
+.project-bg-1{ background-image:url(img/work1.jpg); }
+.project-bg-2{ background-image:url(img/work2.jpg); } 
+.project-bg-3{ background-image:url(img/work3.jpg); }
 .card {
   background-repeat: no-repeat;
   background-size: 24% auto;
