@@ -81,7 +81,7 @@ p:last-child {
 }
 
 .bs {
-background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+  background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
   border-radius: 5px;
   color: #fff;
   display: block;
@@ -105,22 +105,7 @@ background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
   padding: 0;
   color: #8b8989;
 }
-abbr {
-    position: relative;
-}
 
-abbr:hover::after {
-background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
-  border-top-left-radius: 78px;
-  border-top-right-radius: 84px;
-  bottom: 27px;
-  color: #fff;
-  content: attr(title);
-  display: block;
-  right: -41px;
-  padding: 23px 28px;
-  position: absolute;
-}
 .title h4 {
   color: #8b8989;
   margin: 2px 0;
