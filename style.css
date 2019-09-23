@@ -192,7 +192,24 @@ height:100px;
     background-size: cover;
     height: 100px;
 }
+abbr {
+position: relative;
+}
 
+abbr:hover::after {
+position: absolute;
+bottom: 100%;
+left: 100%;
+display: block;
+padding: 3px 8px;
+background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);
+content: attr(title);
+color:#fff;
+font-size:14px;
+font-weight:700;
+
+border-radius:15px;
+}
 .footer-area {
   border-top: 1px solid #999;
   margin: 5px 0;
