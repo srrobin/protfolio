@@ -45,7 +45,7 @@ background-image : url(img/bg4.png);
 background-image : url(img/work1.png);
 }
 .project-bg-2 {
-background-image : url(img/work2.png);
+background-image : url(img/sms.png);
 }
 .project-bg-3 {
 background-image : url(img/work3.png);
@@ -123,17 +123,21 @@ padding : 11px 0;
 .single-progressbar {
 padding : 5px 0;
 }
+
 .experience-area ul {
 list-style : none outside none;
 padding : 0;
 }
+
 .experience-area ul li {
 font-weight : 300;
 }
+
 .contact-form {
-padding : 27px 30px;
+padding : 27px 30px;   01674284186    
 }
-.contact-form input[type="text"], .contact-form input[type="email"], .contact-form input[type="tel"], .contact-form textarea {
+
+.contact-form input[type ="text"], .contact-form input[type ="email"], .contact-form input[type="tel"], .contact-form textarea {
 border : #999 solid 1px;
 display : block;
 margin-bottom : 15px;
