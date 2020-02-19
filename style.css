@@ -62,6 +62,9 @@ background-image : url(img/w4.jpg);
 .project-bg-7 {
 background-image : url(img/e.jpg); 
 }
+.project-bg-8 {
+background-image : url(img/multi.jpg); 
+}
 .card {
 background-repeat : no-repeat;
 background-size : 24% auto;
